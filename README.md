@@ -8,6 +8,10 @@ sshpass is mandatory to utilize this script.
 ### mariadb-recovery.sh
 A script to toubleshoot MariaDB issues (uninitialized,port is already in use,wrong ownership), you can either run it as a whole or run what you only need.
 
+### allow-specific-traffic.sh
+
+A script that allows only specific traffic to the machine using persistent iptables rules.
+
 
 
 
